@@ -233,7 +233,7 @@ plt.legend(title='Jenis Kelamin', labels=['Laki-laki', 'Perempuan'])
 
 plt.show()
 ```
-![Alt text](<jenis kelamin-1.png>)
+![Alt text](<jenis kelamin.png>)
 ### Disini saya akan melihat distribusi kolom Category : 
 ![Alt text](Category.png)
 ## Modeling

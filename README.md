@@ -9,9 +9,8 @@ Proyek ini berfokus pada prediksi penyakit Hepatitis C berdasarkan data pasien, 
 
 # Business Understanding?
 ## Problem Statements
-* Bagaimana memprediksi kategori diagnosis pasien Hepatitis C?
+* Bagaimana memprediksi kategori diagnosis pasien Hepatitis dan non Hepatitis?
 
-* Bagaimana mengklasifikasikan pasien ke dalam kategori berbeda, seperti Blood Donor, Hepatitis, Fibrosis, dan Cirrhosis?
 # Goals
 * Mengembangkan model machine learning yang dapat memprediksi diagnosis pasien Hepatitis C dengan akurasi yang tinggi.
 

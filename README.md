@@ -331,5 +331,8 @@ Pasien Tidak Terkena Hepatitits
  ``` 
  ## Deployment :
  https://prediksi-hepatitis-uas.streamlit.app/
- ![Alt text](<Terkena Hepatitis-1.png>) ![Alt text](<Tidak terkena Hepatitis-1.png>)
+ ![Terkena Hepatitis](https://github.com/Tugiyanto/PrediksiHepatitisUas/assets/94089340/42cd44d7-d959-4cbf-8da3-a3daa6df11e8)
+ ![Tidak terkena Hepatitis](https://github.com/Tugiyanto/PrediksiHepatitisUas/assets/94089340/c91059da-9824-43a5-af30-044698ccce38)
+
+
   
